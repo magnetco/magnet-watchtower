@@ -1,11 +1,6 @@
 {
   "domains": [
     {
-      "name": "TEST - Fake Failure Domain",
-      "url": "https://this-domain-absolutely-does-not-exist-test-failure-12345.com",
-      "timeout_seconds": 5
-    },
-    {
       "name": "Three Sixty Merchandising",
       "url": "https://www.threesixtymerch.com",
       "timeout_seconds": 10
