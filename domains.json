@@ -1,0 +1,99 @@
+{
+  "domains": [
+    {
+      "name": "Three Sixty Merchandising",
+      "url": "https://www.threesixtymerch.com",
+      "timeout_seconds": 10
+    },
+    {
+      "name": "Brandience",
+      "url": "https://www.brandience.com",
+      "timeout_seconds": 10
+    },
+    {
+      "name": "O'Keeffe's US Site",
+      "url": "https://okeeffescompany.com",
+      "timeout_seconds": 10
+    },
+    {
+      "name": "O'Keeffe's CA Site",
+      "url": "https://okeeffes.ca",
+      "timeout_seconds": 10
+    },
+    {
+      "name": "PL Marketing",
+      "url": "https://plmarketing.net",
+      "timeout_seconds": 10
+    },
+    {
+      "name": "The Grocery Runners",
+      "url": "https://thegroceryrunners.com",
+      "timeout_seconds": 10
+    },
+    {
+      "name": "American Legal Publishing",
+      "url": "https://amlegal.com",
+      "timeout_seconds": 10
+    },
+    {
+      "name": "BSI Engineering",
+      "url": "https://bsiengr.com",
+      "timeout_seconds": 10
+    },
+    {
+      "name": "Magnet Co",
+      "url": "https://magnet.co",
+      "timeout_seconds": 10
+    },
+    {
+      "name": "Softwave Accounting",
+      "url": "https://softwaveaccounting.com",
+      "timeout_seconds": 10
+    },
+    {
+      "name": "Commonwealth Inc",
+      "url": "https://www.commonwealthinc.com",
+      "timeout_seconds": 10
+    },
+    {
+      "name": "The Directions Group",
+      "url": "https://www.directionsgroup.com",
+      "timeout_seconds": 10
+    },
+    {
+      "name": "Inglis Digital USA (Wanamakers)",
+      "url": "https://inglisdigitalusa.com",
+      "timeout_seconds": 10
+    },
+    {
+      "name": "Katz Teller",
+      "url": "https://katzteller.com",
+      "timeout_seconds": 10
+    },
+    {
+      "name": "MyRacehorse",
+      "url": "https://myracehorse.com",
+      "timeout_seconds": 10
+    },
+    {
+      "name": "Prosource Vitis",
+      "url": "https://www.vitistech.com",
+      "timeout_seconds": 10
+    },
+    {
+      "name": "Allied Springbok",
+      "url": "https://www.springbok-puzzles.com",
+      "timeout_seconds": 10
+    },
+    {
+      "name": "360 Merch",
+      "url": "https://360merch.com",
+      "timeout_seconds": 10
+    },
+    {
+      "name": "Enthusiast Auto",
+      "url": "https://www.enthusiastauto.com",
+      "timeout_seconds": 10
+    }
+  ]
+}
