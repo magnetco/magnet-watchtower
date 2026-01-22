@@ -3,6 +3,10 @@ name = "magnet-watchtower"
 version = "0.1.0"
 edition = "2021"
 
+[[bin]]
+name = "check"
+path = "api/check.rs"
+
 [dependencies]
 tokio = { version = "1.35", features = ["full"] }
 reqwest = { version = "0.11", features = ["json"] }

@@ -4,7 +4,7 @@ use serde::{Deserialize, Serialize};
 use std::time::Duration;
 use vercel_runtime::{run, Body, Error, Request, Response, StatusCode};
 
-#[derive(Debug, Deserialize)]
+#[derive(Debug, Deserialize, Clone)]
 struct Domain {
     name: String,
     url: String,
@@ -21,7 +21,7 @@ struct DomainsConfig {
     domains: Vec<Domain>,
 }
 
-#[derive(Debug, Serialize)]
+#[derive(Debug, Serialize, Clone)]
 struct CheckResult {
     name: String,
     url: String,
