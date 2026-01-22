@@ -142,7 +142,8 @@ async fn send_slack_notification(webhook_url: &str, failures: &[CheckResult]) ->
     ];
 
     for failure in failures {
-        let error_text = failure.error.as_ref().unwrap_or(&"Unknown error".to_string());
+        let default_error = "Unknown error".to_string();
+        let error_text = failure.error.as_ref().unwrap_or(&default_error);
         
         blocks.push(SlackBlock {
             block_type: "section".to_string(),
